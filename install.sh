@@ -24,7 +24,7 @@ apt-get install -y \
     lsd \
     neovim \
     zsh-autosuggestions \
-    software-properties-common \
+    software-properties-common
 
 # ============================================================
 # Starship
