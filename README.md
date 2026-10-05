@@ -2,6 +2,10 @@
 ```
 ❗ Скрипт изначально написан для OS Ubuntu 24.04+
 ```
+### ✏️ Команда для установки:
+```
+curl -fsSL https://raw.githubusercontent.com/Paladin4ick/setup-terminal-preset/main/install.sh | sh
+```
 ### 📥 Устанавливает:
 - zsh
 - git
