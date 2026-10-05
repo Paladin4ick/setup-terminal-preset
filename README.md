@@ -4,7 +4,7 @@
 ```
 ### ✏️ Команда для установки:
 ```
-curl -fsSL https://raw.githubusercontent.com/Paladin4ick/setup-terminal-preset/main/install.sh | sh
+curl -sS https://raw.githubusercontent.com/Paladin4ick/setup-terminal-preset/refs/heads/main/install.sh | sh
 ```
 ### 📥 Устанавливает:
 - zsh
