@@ -4,7 +4,7 @@
 ```
 ### ✏️ Команда для установки:
 ```
-curl -fSsL https://paladin4ick.tech/zsh/install.sh | sh
+sh -c "$(curl -fSsL https://paladin4ick.tech/zsh/install.sh)"
 ```
 ### 📥 Устанавливает:
 - zsh
